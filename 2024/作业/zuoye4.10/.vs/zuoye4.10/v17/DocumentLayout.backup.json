@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\C\u8BED\u8A00\u5B66\u4E60\\2024\\\u4F5C\u4E1A\\zuoye4.10\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{59F8B6C2-DC62-402A-ABB1-D1E3F5A564D4}|zuoye4.10\\zuoye4.10.vcxproj|D:\\C\u8BED\u8A00\u5B66\u4E60\\2024\\\u4F5C\u4E1A\\zuoye4.10\\zuoye4.10\\zuoye.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{59F8B6C2-DC62-402A-ABB1-D1E3F5A564D4}|zuoye4.10\\zuoye4.10.vcxproj|solutionrelative:zuoye4.10\\zuoye.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "zuoye.c",
+              "DocumentMoniker": "D:\\C\u8BED\u8A00\u5B66\u4E60\\2024\\\u4F5C\u4E1A\\zuoye4.10\\zuoye4.10\\zuoye.c",
+              "RelativeDocumentMoniker": "zuoye4.10\\zuoye.c",
+              "ToolTip": "D:\\C\u8BED\u8A00\u5B66\u4E60\\2024\\\u4F5C\u4E1A\\zuoye4.10\\zuoye4.10\\zuoye.c*",
+              "RelativeToolTip": "zuoye4.10\\zuoye.c*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2024-10-29T14:56:37.182Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

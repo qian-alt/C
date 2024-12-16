@@ -1,7 +1,0 @@
-﻿  FileName.c
-D:\C语言学习\2024\作业\zuoye2.8\zuoye2.8\FileName.c(29,9): warning C4476: "printf": 格式说明符中的类型字段字符“.”未知
-D:\C语言学习\2024\作业\zuoye2.8\zuoye2.8\FileName.c(29,47): warning C4474: printf: 格式字符串中传递的参数太多
-      D:\C语言学习\2024\作业\zuoye2.8\zuoye2.8\FileName.c(29,47):
-      占位符和其参数预计 0 可变参数，但提供的却是 1 参数
-  
-  zuoye2.8.vcxproj -> D:\C语言学习\2024\作业\zuoye2.8\x64\Debug\zuoye2.8.exe

@@ -1,0 +1,10 @@
+﻿  zuoye3.8.c
+D:\C语言学习\2024\作业\zuoye3.8\zuoye3.8\zuoye3.8.c(6,17): warning C4473: “scanf_s”: 没有为格式字符串传递足够的参数
+      D:\C语言学习\2024\作业\zuoye3.8\zuoye3.8\zuoye3.8.c(6,17):
+      占位符和其参数预计 2 可变参数，但提供的却是 1 参数
+      D:\C语言学习\2024\作业\zuoye3.8\zuoye3.8\zuoye3.8.c(6,17):
+      缺失的可变参数 2 为格式字符串“%99s”所需
+      D:\C语言学习\2024\作业\zuoye3.8\zuoye3.8\zuoye3.8.c(6,17):
+      此参数用作缓冲区大小
+  
+  zuoye3.8.vcxproj -> D:\C语言学习\2024\作业\zuoye3.8\x64\Debug\zuoye3.8.exe
